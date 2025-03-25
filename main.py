@@ -1,4 +1,4 @@
-from kivymd.app import MDApp
+from kivymd.ap import MDApp
 from kivy.core.window import Window
 from kivy.lang.builder import Builder
 
